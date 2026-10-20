@@ -1,2 +1,2 @@
 # Mask2Cal
-Region-Consistent Masking Meets Scale-Calibrated Embedding for Crop Disease Image-Text Cross-Modal Retrieval with LLM-Assisted
+The model weights trained on CroDis4CMR are available at https://pan.baidu.com/s/1LlsdOgDeerXYx-m6gEbJCQ?pwd=wzgg
